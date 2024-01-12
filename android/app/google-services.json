@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424011633333",
+    "project_id": "applastproject-ba185",
+    "storage_bucket": "applastproject-ba185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424011633333:android:ae6b652325f853349564fc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_last_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB-2g5KNEdNA2EpODKBjtilYCHBslGwPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
